@@ -51,11 +51,11 @@ CREATE TABLE submissionProfile
 );
 
 
-INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission, reviewerPreference1) Values("Algorithmic Complexity Analysis of Matrix Multiplication", "Joe@UCalgary.ca", "Algorithmics", "Eduardo Picatto", "AnotherSample.pdf", "submitted", "2019-6-3", "Glen@ucalgary.ca");
-INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission, reviewerPreference1) Values("Go-Back N Versus Modern Reliable Data Transfer Protocols", "Tom@UCalgary.ca", "Networking", "Sammy Sprinkler", "AnotherSample.pdf", "submitted", "2019-2-19", "Glen@ucalgary.ca");
-INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission, reviewerPreference1) Values("Vector Spaces and their Role in Quantum Public Key Encryption", "Joe@ucalgary.ca", "Quantum Computing", "Joe Brown", "SamplePaper.pdf", "accepted", "2019-2-3", "Glen@ucalgary.ca");
-INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission) Values("Machine Learning Algorithms: Random Forests and Their Applications", "Todd@ucalgary.ca", "Machine Learning", "Todd Haines", "SamplePaper.pdf", "accepted", "2019-1-28");
-INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission) Values("Gradient Descent in Machine Learning", "Glen@ucalgary.ca", "Machine Learning", "Glen Adams", "SamplePaper.pdf", "accepted", "2019-1-9");
+INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission, reviewerPreference1) Values("Algorithmic Complexity Analysis of Matrix Multiplication", "Joe@UCalgary.ca", "Algorithmics", "Eduardo Picatto", "AnotherSample.pdf", "submitted", "2019-7-3", "Glen@ucalgary.ca");
+INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission, reviewerPreference1) Values("Go-Back N Versus Modern Reliable Data Transfer Protocols", "Tom@UCalgary.ca", "Networking", "Sammy Sprinkler", "AnotherSample.pdf", "submitted", "2019-7-19", "Glen@ucalgary.ca");
+INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission, reviewerPreference1) Values("Vector Spaces and their Role in Quantum Public Key Encryption", "Joe@ucalgary.ca", "Quantum Computing", "Joe Brown", "SamplePaper.pdf", "submitted", "2019-7-3", "Glen@ucalgary.ca");
+INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission) Values("Machine Learning Algorithms: Random Forests and Their Applications", "Todd@ucalgary.ca", "Machine Learning", "Todd Haines", "SamplePaper.pdf", "submitted", "2019-7-28");
+INSERT INTO submissionProfile (paperTitle, email, topic, authors, pdfSubmission, PaperStatus, dateOfSubmission) Values("Gradient Descent in Machine Learning", "Glen@ucalgary.ca", "Machine Learning", "Glen Adams", "SamplePaper.pdf", "submitted", "2019-7-9");
 
 
 -- Table for reviewer and writer 
