@@ -1,7 +1,7 @@
 # SENG 300 - Hive Mind Project
 
 ## Authors
-FredReinink, panktiHT, nmoton, JanetLeahy
+FredReinink, panktiHT, nmoton, and JanetLeahy.
 
 ## About
 Created for Software Engineering 300 in Spring 2019, this project models an academic journal submission and review system.  
